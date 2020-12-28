@@ -9,7 +9,7 @@ My name is Augusto, i'm graduated 🎓 in  **mechanical engineering** and i'm cu
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 
-<img height="32" src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo.png" height="32" width="40" class="attachment-medium" alt="html5-logo">
+<img height="32" src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo.png" height="32" class="attachment-medium" alt="html5-logo">
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/david-santos-a482041b2/)](https://www.linkedin.com/in/augustokras/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.dvdsantos@gmail.com)](mailto:augusto.kraszczuk@gmail.com)
