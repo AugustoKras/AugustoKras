@@ -19,6 +19,9 @@ My name is Augusto, i'm graduated 🎓 in  **mechanical engineering** and i'm cu
     <tr>
         <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AugustoKras&hide=html&layout=compact&theme=tokyonight" /></td>
         <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=AugustoKras&theme=tokyonight"/></td>
+        
+        ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AugustoKras&show_icons=true)
+        
     </tr>   
 </table>
 </center>  
