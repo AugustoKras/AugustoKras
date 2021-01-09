@@ -2,7 +2,7 @@
 My name is Augusto, i'm graduated 🎓 in  **mechanical engineering** and i'm currently studying ***analysis and systems development*** looking for an opportunity to migrate from area.
 
 - 💈    Currently open to new opportunities.
-- ⚙️  HTML5, CSS3, ES6, Python
+- ⚙️  HTML5, CSS3, Python, React-Native, Linux
 
 
 
