@@ -17,7 +17,7 @@ My name is Augusto, i'm graduated 🎓 in  **mechanical engineering** and i'm cu
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=AugustoKras.AugustoKras)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AugustoKras&show_icons=true&theme=kacho_ga)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AugustoKras&theme=kacho_ga)</p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AugustoKras&show_icons=true&theme=gotham)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AugustoKras&theme=gotham)</p>
 
 
 <!--
