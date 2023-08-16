@@ -2,19 +2,10 @@
 My name is Augusto, i'm graduated 🎓 in  **mechanical engineering** and i'm currently studying ***analysis and systems development*** looking for an opportunity to migrate from area.
 
 - 💈    Currently open to new opportunities.
-- ⚙️  HTML5, CSS3, Python, Linux, GCP, Java...
+- ⚙️  C#, Java, linux, Python, Linux, GCP...
 
 
-
-<p>
-<code><img src="https://camo.githubusercontent.com/91de473fa3f2f749a56effc3e64f1049d108251f/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f632f63332f507974686f6e2d6c6f676f2d6e6f746578742e7376672f37363870782d507974686f6e2d6c6f676f2d6e6f746578742e7376672e706e67" height="32" alt="python"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="40" src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo.png" height="32" class="attachment-medium" alt="html5-logo"></code><code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"></code>
-<code><img height="32" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/linux_original_logo_icon_146433.png"</code></code><br></p>
-<code><img height="32" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/linux_original_logo_icon_146433.png"</code></code><br></p>
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,gcp,java,linux,py,postgres)](https://skillicons.dev)
 
 
 
