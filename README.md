@@ -1,7 +1,6 @@
 ## Hello!👻
-My name is Augusto, i'm graduated 🎓 in  **mechanical engineering** and i'm currently studying ***analysis and systems development*** looking for an opportunity to migrate from area.
+My name is Augusto, i'm graduated 🎓 in  **mechanical engineering** and  ***analysis and systems development*** 
 
-- 💈    Currently open to new opportunities.
 - ⚙️  C#, Java, linux, Python, Linux, GCP...
 
 
